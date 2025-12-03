@@ -1,0 +1,262 @@
+2025-11-07 12:49:21,875 - INFO - Fetching quote...
+2025-11-07 12:49:21,875 - INFO - Fetching quote from API...
+2025-11-07 12:49:22,846 - INFO - Quote fetched successfully: “He who knows best knows how little he knows.” — Thomas Jefferson
+2025-11-07 12:49:22,847 - INFO - Preparing to send emails to users...
+2025-11-07 12:49:22,847 - INFO - Connecting to the database...
+2025-11-07 12:49:23,055 - INFO - Connected to database to fetch active users with daily frequency
+2025-11-07 12:49:29,880 - INFO - NumExpr defaulting to 4 threads.
+2025-11-07 12:49:33,779 - INFO - Fetched 4 active users with daily frequency
+2025-11-07 12:49:36,388 - INFO - Email sent to kabirolawlemohammed@yahoo.com
+2025-11-07 12:49:39,350 - INFO - Email sent to skyfortglobalresourcesltd@yahoo.com
+2025-11-07 12:49:41,862 - INFO - Email sent to solapeajiboye@gmail.com
+2025-11-07 12:49:44,906 - INFO - Email sent to aladeyussuf.kofo@gmail.com
+2025-11-07 12:49:47,723 - INFO - Success: Email sent to kabirwale@yahoo.com
+2025-11-07 12:49:47,724 - INFO - Daily summary sent to admin kabirwale@yahoo.com
+2025-12-01 15:59:34,344 - numexpr.utils - INFO - NumExpr defaulting to 4 threads.
+2025-12-01 15:59:36,662 - root - INFO - Fetching quote...
+2025-12-01 15:59:36,662 - root - INFO - Fetching quote from API...
+2025-12-01 15:59:36,668 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): zenquotes.io:443
+2025-12-01 15:59:51,729 - urllib3.connectionpool - DEBUG - https://zenquotes.io:443 "GET /api/today HTTP/11" 200 None
+2025-12-01 15:59:51,730 - root - INFO - Quote fetched successfully: “You are not the drop in the ocean, but the ocean in the drop.” — Deepak Chopra
+2025-12-01 15:59:51,732 - root - INFO - Quote fetched: “You are not the drop in the ocean, but the ocean in the drop.” — Deepak Chopra
+2025-12-01 15:59:51,733 - root - INFO - Preparing to send emails to users...
+2025-12-01 16:07:38,581 - numexpr.utils - INFO - NumExpr defaulting to 4 threads.
+2025-12-01 16:07:41,471 - root - INFO - Fetching quote...
+2025-12-01 16:07:41,471 - root - INFO - Fetching quote from API...
+2025-12-01 16:07:41,504 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): zenquotes.io:443
+2025-12-01 16:07:43,497 - urllib3.connectionpool - DEBUG - https://zenquotes.io:443 "GET /api/today HTTP/11" 200 None
+2025-12-01 16:07:43,499 - root - INFO - Quote fetched successfully: “You are not the drop in the ocean, but the ocean in the drop.” — Deepak Chopra
+2025-12-01 16:07:43,500 - root - INFO - Quote fetched: “You are not the drop in the ocean, but the ocean in the drop.” — Deepak Chopra
+2025-12-01 16:07:43,501 - root - INFO - Preparing to send emails to users...
+2025-12-01 16:07:43,502 - root - INFO - Connecting to the database...
+2025-12-01 16:07:43,663 - root - INFO - Connected to database to fetch active users
+2025-12-01 16:07:43,869 - root - INFO - Fetched 4 active users from database
+2025-12-01 16:07:43,869 - root - INFO - Total active users to email: 4
+2025-12-01 16:54:23,322 - numexpr.utils - INFO - NumExpr defaulting to 4 threads.
+2025-12-01 16:54:25,691 - root - INFO - Fetching quote...
+2025-12-01 16:54:25,691 - root - INFO - Fetching quote from API...
+2025-12-01 16:54:25,706 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): zenquotes.io:443
+2025-12-01 16:54:40,685 - urllib3.connectionpool - DEBUG - https://zenquotes.io:443 "GET /api/today HTTP/11" 200 None
+2025-12-01 16:54:40,687 - root - INFO - Quote fetched successfully: “You are not the drop in the ocean, but the ocean in the drop.” — Deepak Chopra
+2025-12-01 16:54:40,689 - root - INFO - Quote fetched: “You are not the drop in the ocean, but the ocean in the drop.” — Deepak Chopra
+2025-12-01 16:54:40,690 - root - INFO - Preparing to send emails to users...
+2025-12-01 16:54:40,690 - root - INFO - Connecting to the database...
+2025-12-01 16:54:40,866 - root - INFO - Connected to database to fetch active users
+2025-12-01 16:54:40,983 - root - INFO - Fetched 4 active users from database
+2025-12-01 16:54:40,984 - root - INFO - Total active users to email: 4
+2025-12-01 16:54:41,005 - root - INFO - Connecting to the database...
+2025-12-01 16:54:41,021 - root - INFO - Connected to database to fetch active users
+2025-12-01 16:54:41,066 - root - WARNING - Attempt 1 failed for kabirolawalemohammed@yahoo.com: 'numpy.datetime64' object is not iterable
+2025-12-01 16:54:46,073 - root - WARNING - Attempt 2 failed for kabirolawalemohammed@yahoo.com: 'numpy.datetime64' object is not iterable
+2025-12-01 16:54:51,079 - root - WARNING - Attempt 3 failed for kabirolawalemohammed@yahoo.com: 'numpy.datetime64' object is not iterable
+2025-12-01 16:54:56,080 - root - ERROR - Failed to send email to kabirolawalemohammed@yahoo.com after 3 retries.
+2025-12-01 16:54:56,081 - root - INFO - Connecting to the database...
+2025-12-01 16:54:56,082 - root - INFO - Connected to database to fetch active users
+2025-12-01 16:54:56,091 - root - WARNING - Attempt 1 failed for skyfortcafe@gmail.com: 'numpy.datetime64' object is not iterable
+2025-12-01 16:55:01,092 - root - WARNING - Attempt 2 failed for skyfortcafe@gmail.com: 'numpy.datetime64' object is not iterable
+2025-12-01 16:55:06,094 - root - WARNING - Attempt 3 failed for skyfortcafe@gmail.com: 'numpy.datetime64' object is not iterable
+2025-12-01 16:55:11,099 - root - ERROR - Failed to send email to skyfortcafe@gmail.com after 3 retries.
+2025-12-01 16:55:11,100 - root - INFO - Connecting to the database...
+2025-12-01 16:55:11,102 - root - INFO - Connected to database to fetch active users
+2025-12-01 16:55:11,110 - root - WARNING - Attempt 1 failed for skyforttravelandtoursltd@gmail.com: 'numpy.datetime64' object is not iterable
+2025-12-01 16:55:16,113 - root - WARNING - Attempt 2 failed for skyforttravelandtoursltd@gmail.com: 'numpy.datetime64' object is not iterable
+2025-12-01 16:55:21,115 - root - WARNING - Attempt 3 failed for skyforttravelandtoursltd@gmail.com: 'numpy.datetime64' object is not iterable
+2025-12-01 16:55:26,115 - root - ERROR - Failed to send email to skyforttravelandtoursltd@gmail.com after 3 retries.
+2025-12-01 16:55:26,116 - root - INFO - Connecting to the database...
+2025-12-01 16:55:26,118 - root - INFO - Connected to database to fetch active users
+2025-12-01 16:55:26,126 - root - WARNING - Attempt 1 failed for skyfortglobalresourcesltd@yahoo.com: 'numpy.datetime64' object is not iterable
+2025-12-01 16:55:31,128 - root - WARNING - Attempt 2 failed for skyfortglobalresourcesltd@yahoo.com: 'numpy.datetime64' object is not iterable
+2025-12-01 16:55:36,130 - root - WARNING - Attempt 3 failed for skyfortglobalresourcesltd@yahoo.com: 'numpy.datetime64' object is not iterable
+2025-12-01 16:55:41,131 - root - ERROR - Failed to send email to skyfortglobalresourcesltd@yahoo.com after 3 retries.
+2025-12-01 16:55:41,140 - root - INFO - Database connection closed.
+2025-12-01 16:55:41,159 - root - INFO - Preparing to send daily summary to admin...
+2025-12-01 16:55:42,771 - root - WARNING - Attempt 1 failed for kabirwale@yahoo.com: unsupported operand type(s) for -: 'datetime.datetime' and 'NoneType'
+2025-12-01 16:55:49,034 - root - WARNING - Attempt 2 failed for kabirwale@yahoo.com: unsupported operand type(s) for -: 'datetime.datetime' and 'NoneType'
+2025-12-01 16:55:55,551 - root - WARNING - Attempt 3 failed for kabirwale@yahoo.com: unsupported operand type(s) for -: 'datetime.datetime' and 'NoneType'
+2025-12-01 16:56:00,552 - root - ERROR - Failed to send email to kabirwale@yahoo.com after 3 retries.
+2025-12-01 16:56:00,553 - root - INFO - Daily summary sent to admin kabirwale@yahoo.com
+2025-12-01 16:56:00,553 - root - INFO - Email delivery process completed. Check log for details.
+2025-12-01 17:01:35,210 - numexpr.utils - INFO - NumExpr defaulting to 4 threads.
+2025-12-01 17:01:37,601 - root - INFO - Fetching quote...
+2025-12-01 17:01:37,602 - root - INFO - Fetching quote from API...
+2025-12-01 17:01:37,611 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): zenquotes.io:443
+2025-12-01 17:01:53,035 - urllib3.connectionpool - DEBUG - https://zenquotes.io:443 "GET /api/today HTTP/11" 200 None
+2025-12-01 17:01:53,037 - root - INFO - Quote fetched successfully: “You are not the drop in the ocean, but the ocean in the drop.” — Deepak Chopra
+2025-12-01 17:01:53,038 - root - INFO - Quote fetched: “You are not the drop in the ocean, but the ocean in the drop.” — Deepak Chopra
+2025-12-01 17:01:53,038 - root - INFO - Preparing to send emails to users...
+2025-12-01 17:01:53,039 - root - INFO - Connecting to the database...
+2025-12-01 17:01:53,100 - root - INFO - Connected to database to fetch active users
+2025-12-01 17:01:53,110 - root - INFO - Fetched 4 active users from database
+2025-12-01 17:01:53,110 - root - INFO - Total active users to email: 4
+2025-12-01 17:01:53,111 - root - INFO - Connecting to the database...
+2025-12-01 17:09:57,235 - numexpr.utils - INFO - NumExpr defaulting to 4 threads.
+2025-12-01 17:09:59,818 - root - INFO - Fetching quote...
+2025-12-01 17:09:59,818 - root - INFO - Fetching quote from API...
+2025-12-01 17:09:59,828 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): zenquotes.io:443
+2025-12-01 17:10:04,108 - urllib3.connectionpool - DEBUG - https://zenquotes.io:443 "GET /api/today HTTP/11" 200 None
+2025-12-01 17:10:04,110 - root - INFO - Quote fetched successfully: “You are not the drop in the ocean, but the ocean in the drop.” — Deepak Chopra
+2025-12-01 17:10:04,111 - root - INFO - Quote fetched: “You are not the drop in the ocean, but the ocean in the drop.” — Deepak Chopra
+2025-12-01 17:10:04,112 - root - INFO - Preparing to send emails to users...
+2025-12-01 17:10:04,112 - root - INFO - Connecting to the database...
+2025-12-01 17:10:04,233 - root - INFO - Connected to database to fetch active users
+2025-12-01 17:10:04,347 - root - INFO - Fetched 4 active users from database
+2025-12-01 17:10:04,347 - root - INFO - Total active users to email: 4
+2025-12-01 18:31:52,451 - numexpr.utils - INFO - NumExpr defaulting to 4 threads.
+2025-12-01 18:31:54,815 - root - INFO - Fetching quote...
+2025-12-01 18:31:54,815 - root - INFO - Fetching quote from API...
+2025-12-01 18:31:54,838 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): zenquotes.io:443
+2025-12-01 18:31:56,813 - urllib3.connectionpool - DEBUG - https://zenquotes.io:443 "GET /api/today HTTP/11" 200 None
+2025-12-01 18:31:56,815 - root - INFO - Quote fetched successfully: “You are not the drop in the ocean, but the ocean in the drop.” — Deepak Chopra
+2025-12-01 18:31:56,816 - root - INFO - Quote fetched: “You are not the drop in the ocean, but the ocean in the drop.” — Deepak Chopra
+2025-12-01 18:31:56,817 - root - INFO - Preparing to send emails to users...
+2025-12-01 18:31:56,818 - root - INFO - Connecting to the database...
+2025-12-01 18:31:56,958 - root - INFO - Connected to database to fetch active users
+2025-12-01 18:31:57,076 - root - INFO - Fetched 4 active users from database
+2025-12-01 18:31:57,076 - root - INFO - Total active users to email: 4
+2025-12-01 18:31:57,077 - root - INFO - Connecting to the database...
+2025-12-01 18:31:57,114 - root - INFO - Connected to database to update last_emailed for user_id: 1
+2025-12-01 18:31:57,142 - root - WARNING - Attempt 1 failed for kabirolawalemohammed@yahoo.com: 'numpy.datetime64' object is not iterable
+2025-12-01 18:32:02,144 - root - WARNING - Attempt 2 failed for kabirolawalemohammed@yahoo.com: 'numpy.datetime64' object is not iterable
+2025-12-01 18:32:07,146 - root - WARNING - Attempt 3 failed for kabirolawalemohammed@yahoo.com: 'numpy.datetime64' object is not iterable
+2025-12-01 18:32:12,147 - root - ERROR - Failed to send email to kabirolawalemohammed@yahoo.com after 3 retries.
+2025-12-01 18:32:12,148 - root - INFO - Connected to database to update last_emailed for user_id: 2
+2025-12-01 18:32:12,155 - root - WARNING - Attempt 1 failed for skyfortcafe@gmail.com: 'numpy.datetime64' object is not iterable
+2025-12-01 18:32:17,159 - root - WARNING - Attempt 2 failed for skyfortcafe@gmail.com: 'numpy.datetime64' object is not iterable
+2025-12-01 18:32:22,161 - root - WARNING - Attempt 3 failed for skyfortcafe@gmail.com: 'numpy.datetime64' object is not iterable
+2025-12-01 18:32:27,162 - root - ERROR - Failed to send email to skyfortcafe@gmail.com after 3 retries.
+2025-12-01 18:32:27,162 - root - INFO - Connected to database to update last_emailed for user_id: 4
+2025-12-01 18:32:27,169 - root - WARNING - Attempt 1 failed for skyforttravelandtoursltd@gmail.com: 'numpy.datetime64' object is not iterable
+2025-12-01 18:32:32,172 - root - WARNING - Attempt 2 failed for skyforttravelandtoursltd@gmail.com: 'numpy.datetime64' object is not iterable
+2025-12-01 18:32:37,173 - root - WARNING - Attempt 3 failed for skyforttravelandtoursltd@gmail.com: 'numpy.datetime64' object is not iterable
+2025-12-01 18:32:42,176 - root - ERROR - Failed to send email to skyforttravelandtoursltd@gmail.com after 3 retries.
+2025-12-01 18:32:42,177 - root - INFO - Connected to database to update last_emailed for user_id: 5
+2025-12-01 18:32:42,184 - root - WARNING - Attempt 1 failed for skyfortglobalresourcesltd@yahoo.com: 'numpy.datetime64' object is not iterable
+2025-12-01 18:32:47,186 - root - WARNING - Attempt 2 failed for skyfortglobalresourcesltd@yahoo.com: 'numpy.datetime64' object is not iterable
+2025-12-01 18:32:52,187 - root - WARNING - Attempt 3 failed for skyfortglobalresourcesltd@yahoo.com: 'numpy.datetime64' object is not iterable
+2025-12-01 18:32:57,196 - root - ERROR - Failed to send email to skyfortglobalresourcesltd@yahoo.com after 3 retries.
+2025-12-01 18:32:57,206 - root - INFO - Database connection closed.
+2025-12-01 18:32:57,206 - root - INFO - Preparing to send daily summary to admin...
+2025-12-01 18:33:14,097 - root - INFO - Email send to Admin email: kabirwale@yahoo.com
+2025-12-01 18:33:14,266 - root - INFO - Success: Email sent to kabirwale@yahoo.com
+2025-12-01 18:33:14,267 - root - INFO - Daily summary sent to admin kabirwale@yahoo.com
+2025-12-01 18:33:14,268 - root - INFO - Email delivery process completed. Check log for details.
+2025-12-01 18:42:06,768 - numexpr.utils - INFO - NumExpr defaulting to 4 threads.
+2025-12-01 18:42:08,668 - root - INFO - Fetching quote...
+2025-12-01 18:42:08,668 - root - INFO - Fetching quote from API...
+2025-12-01 18:42:08,703 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): zenquotes.io:443
+2025-12-01 18:42:10,687 - urllib3.connectionpool - DEBUG - https://zenquotes.io:443 "GET /api/today HTTP/11" 200 None
+2025-12-01 18:42:10,688 - root - INFO - Quote fetched successfully: “You are not the drop in the ocean, but the ocean in the drop.” — Deepak Chopra
+2025-12-01 18:42:10,689 - root - INFO - Quote fetched: “You are not the drop in the ocean, but the ocean in the drop.” — Deepak Chopra
+2025-12-01 18:42:10,689 - root - INFO - Preparing to send emails to users...
+2025-12-01 18:42:10,689 - root - INFO - Connecting to the database...
+2025-12-01 18:42:10,738 - root - INFO - Connected to database to fetch active users
+2025-12-01 18:42:10,746 - root - INFO - Fetched 4 active users from database
+2025-12-01 18:42:10,746 - root - INFO - Total active users to email: 4
+2025-12-01 18:42:10,747 - root - INFO - Connecting to the database...
+2025-12-01 18:42:10,765 - root - INFO - Connected to database to update last_emailed for user_id: 1
+2025-12-01 18:42:10,768 - root - WARNING - Attempt 1 failed for kabirolawalemohammed@yahoo.com: 'numpy.datetime64' object is not iterable
+2025-12-01 18:42:15,769 - root - WARNING - Attempt 2 failed for kabirolawalemohammed@yahoo.com: 'numpy.datetime64' object is not iterable
+2025-12-01 18:42:20,770 - root - WARNING - Attempt 3 failed for kabirolawalemohammed@yahoo.com: 'numpy.datetime64' object is not iterable
+2025-12-01 18:42:25,771 - root - ERROR - Failed to send email to kabirolawalemohammed@yahoo.com after 3 retries.
+2025-12-01 18:42:25,771 - root - INFO - Connected to database to update last_emailed for user_id: 2
+2025-12-01 18:42:25,774 - root - WARNING - Attempt 1 failed for skyfortcafe@gmail.com: 'numpy.datetime64' object is not iterable
+2025-12-01 18:42:30,775 - root - WARNING - Attempt 2 failed for skyfortcafe@gmail.com: 'numpy.datetime64' object is not iterable
+2025-12-01 18:42:35,777 - root - WARNING - Attempt 3 failed for skyfortcafe@gmail.com: 'numpy.datetime64' object is not iterable
+2025-12-01 18:42:40,779 - root - ERROR - Failed to send email to skyfortcafe@gmail.com after 3 retries.
+2025-12-01 18:42:40,779 - root - INFO - Connected to database to update last_emailed for user_id: 4
+2025-12-01 18:42:40,788 - root - WARNING - Attempt 1 failed for skyforttravelandtoursltd@gmail.com: 'numpy.datetime64' object is not iterable
+2025-12-01 18:42:45,791 - root - WARNING - Attempt 2 failed for skyforttravelandtoursltd@gmail.com: 'numpy.datetime64' object is not iterable
+2025-12-01 18:42:50,792 - root - WARNING - Attempt 3 failed for skyforttravelandtoursltd@gmail.com: 'numpy.datetime64' object is not iterable
+2025-12-01 18:42:55,796 - root - ERROR - Failed to send email to skyforttravelandtoursltd@gmail.com after 3 retries.
+2025-12-01 18:42:55,797 - root - INFO - Connected to database to update last_emailed for user_id: 5
+2025-12-01 18:42:55,804 - root - WARNING - Attempt 1 failed for skyfortglobalresourcesltd@yahoo.com: 'numpy.datetime64' object is not iterable
+2025-12-01 18:43:00,805 - root - WARNING - Attempt 2 failed for skyfortglobalresourcesltd@yahoo.com: 'numpy.datetime64' object is not iterable
+2025-12-01 18:43:05,807 - root - WARNING - Attempt 3 failed for skyfortglobalresourcesltd@yahoo.com: 'numpy.datetime64' object is not iterable
+2025-12-01 18:43:10,808 - root - ERROR - Failed to send email to skyfortglobalresourcesltd@yahoo.com after 3 retries.
+2025-12-01 18:43:10,817 - root - INFO - Database connection closed.
+2025-12-01 18:43:10,818 - root - INFO - Preparing to send daily summary to admin...
+2025-12-01 18:43:14,816 - root - INFO - Email send to Admin email: kabirwale@yahoo.com
+2025-12-01 18:43:14,977 - root - INFO - Success: Email sent to kabirwale@yahoo.com
+2025-12-01 18:43:14,977 - root - INFO - Daily summary sent to admin kabirwale@yahoo.com
+2025-12-01 18:43:14,978 - root - INFO - Email delivery process completed. Check log for details.
+2025-12-01 18:51:26,636 - numexpr.utils - INFO - NumExpr defaulting to 4 threads.
+2025-12-01 18:51:28,509 - root - INFO - Fetching quote...
+2025-12-01 18:51:28,509 - root - INFO - Fetching quote from API...
+2025-12-01 18:51:28,529 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): zenquotes.io:443
+2025-12-01 18:51:30,532 - urllib3.connectionpool - DEBUG - https://zenquotes.io:443 "GET /api/today HTTP/11" 200 None
+2025-12-01 18:51:30,534 - root - INFO - Quote fetched successfully: “You are not the drop in the ocean, but the ocean in the drop.” — Deepak Chopra
+2025-12-01 18:51:30,535 - root - INFO - Quote fetched: “You are not the drop in the ocean, but the ocean in the drop.” — Deepak Chopra
+2025-12-01 18:51:30,536 - root - INFO - Preparing to send emails to users...
+2025-12-01 18:51:30,537 - root - INFO - Connecting to the database...
+2025-12-01 18:51:30,598 - root - INFO - Connected to database to fetch active users
+2025-12-01 18:51:30,604 - root - INFO - Fetched 4 active users from database
+2025-12-01 18:51:30,604 - root - INFO - Total active users to email: 4
+2025-12-01 18:51:30,605 - root - INFO - Connecting to the database...
+2025-12-01 18:51:30,623 - root - INFO - Connected to database to update last_emailed for user_id: 1
+2025-12-01 18:51:40,381 - root - INFO - Success: Email sent to kabirolawalemohammed@yahoo.com
+2025-12-01 18:51:40,650 - root - INFO - Connected to database to update last_emailed for user_id: 2
+2025-12-01 18:51:43,151 - root - INFO - Success: Email sent to skyfortcafe@gmail.com
+2025-12-01 18:51:43,252 - root - INFO - Connected to database to update last_emailed for user_id: 4
+2025-12-01 18:51:45,647 - root - INFO - Success: Email sent to skyforttravelandtoursltd@gmail.com
+2025-12-01 18:51:45,771 - root - INFO - Connected to database to update last_emailed for user_id: 5
+2025-12-01 18:51:48,180 - root - INFO - Success: Email sent to skyfortglobalresourcesltd@yahoo.com
+2025-12-01 18:51:48,636 - root - INFO - Database connection closed.
+2025-12-01 18:51:48,637 - root - INFO - Preparing to send daily summary to admin...
+2025-12-01 18:51:51,225 - root - INFO - Email send to Admin email: kabirwale@yahoo.com
+2025-12-01 18:51:51,399 - root - INFO - Success: Email sent to kabirwale@yahoo.com
+2025-12-01 18:51:51,399 - root - INFO - Daily summary sent to admin kabirwale@yahoo.com
+2025-12-01 18:51:51,400 - root - INFO - Email delivery process completed. Check log for details.
+2025-12-02 10:01:33,797 - numexpr.utils - INFO - NumExpr defaulting to 4 threads.
+2025-12-02 10:01:37,506 - root - INFO - Fetching quote...
+2025-12-02 10:01:37,507 - root - INFO - Fetching quote from API...
+2025-12-02 10:01:37,533 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): zenquotes.io:443
+2025-12-02 10:01:49,412 - urllib3.connectionpool - DEBUG - https://zenquotes.io:443 "GET /api/today HTTP/11" 200 None
+2025-12-02 10:01:49,414 - root - INFO - Quote fetched successfully: “Remembering that you are going to die is the best way I know to avoid the trap of thinking you have something to lose.” — Steve Jobs
+2025-12-02 10:01:49,415 - root - INFO - Quote fetched: “Remembering that you are going to die is the best way I know to avoid the trap of thinking you have something to lose.” — Steve Jobs
+2025-12-02 10:01:49,417 - root - INFO - Preparing to send emails to users...
+2025-12-02 10:01:49,417 - root - INFO - Connecting to the database...
+2025-12-02 10:01:49,527 - root - INFO - Connected to database to fetch active users
+2025-12-02 10:01:49,716 - root - INFO - Fetched 4 active users from database
+2025-12-02 10:01:49,716 - root - INFO - Total active users to email: 4
+2025-12-02 10:01:49,717 - root - INFO - Connecting to the database...
+2025-12-02 10:01:49,791 - root - INFO - Connected to database to update last_emailed for user_id: 1
+2025-12-02 10:01:51,238 - root - INFO - Email to kabirolawalemohammed@yahoo.com not sent due to frequency settings.
+2025-12-02 10:01:51,643 - root - INFO - Connected to database to update last_emailed for user_id: 2
+2025-12-02 10:01:52,904 - root - INFO - Email to skyfortcafe@gmail.com not sent due to frequency settings.
+2025-12-02 10:01:53,272 - root - INFO - Connected to database to update last_emailed for user_id: 4
+2025-12-02 10:01:54,462 - root - INFO - Email to skyforttravelandtoursltd@gmail.com not sent due to frequency settings.
+2025-12-02 10:01:54,894 - root - INFO - Connected to database to update last_emailed for user_id: 5
+2025-12-02 10:01:56,160 - root - INFO - Email to skyfortglobalresourcesltd@yahoo.com not sent due to frequency settings.
+2025-12-02 10:01:56,729 - root - INFO - Database connection closed.
+2025-12-02 10:01:56,729 - root - INFO - Preparing to send daily summary to admin...
+2025-12-02 10:02:00,671 - root - INFO - Email send to Admin email: kabirwale@yahoo.com
+2025-12-02 10:02:00,841 - root - INFO - Success: Email sent to kabirwale@yahoo.com
+2025-12-02 10:02:00,841 - root - INFO - Daily summary sent to admin kabirwale@yahoo.com
+2025-12-02 10:02:00,841 - root - INFO - Email delivery process completed. Check log for details.
+2025-12-03 10:19:01,583 - numexpr.utils - INFO - NumExpr defaulting to 4 threads.
+2025-12-03 10:19:05,532 - root - INFO - Fetching quote...
+2025-12-03 10:19:05,532 - root - INFO - Fetching quote from API...
+2025-12-03 10:19:05,561 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): zenquotes.io:443
+2025-12-03 10:19:07,481 - urllib3.connectionpool - DEBUG - https://zenquotes.io:443 "GET /api/today HTTP/11" 200 None
+2025-12-03 10:19:07,483 - root - INFO - Quote fetched successfully: “Believe in one thing too much and you have no room for new ideas.” — Ray Bradbury
+2025-12-03 10:19:07,485 - root - INFO - Quote fetched: “Believe in one thing too much and you have no room for new ideas.” — Ray Bradbury
+2025-12-03 10:19:07,486 - root - INFO - Preparing to send emails to users...
+2025-12-03 10:19:07,486 - root - INFO - Connecting to the database...
+2025-12-03 10:19:07,594 - root - INFO - Connected to database to fetch active users
+2025-12-03 10:19:07,706 - root - INFO - Fetched 4 active users from database
+2025-12-03 10:19:07,707 - root - INFO - Total active users to email: 4
+2025-12-03 10:19:07,707 - root - INFO - Connecting to the database...
+2025-12-03 10:19:07,745 - root - INFO - Connected to database to update last_emailed for user_id: 1
+2025-12-03 10:19:10,295 - root - INFO - Success: Email sent to kabirolawalemohammed@yahoo.com
+2025-12-03 10:19:10,474 - root - INFO - Connected to database to update last_emailed for user_id: 2
+2025-12-03 10:19:11,376 - root - INFO - Email to skyfortcafe@gmail.com not sent due to frequency settings.
+2025-12-03 10:19:11,617 - root - INFO - Connected to database to update last_emailed for user_id: 4
+2025-12-03 10:19:12,523 - root - INFO - Email to skyforttravelandtoursltd@gmail.com not sent due to frequency settings.
+2025-12-03 10:19:12,783 - root - INFO - Connected to database to update last_emailed for user_id: 5
+2025-12-03 10:19:15,142 - root - INFO - Success: Email sent to skyfortglobalresourcesltd@yahoo.com
+2025-12-03 10:19:15,547 - root - INFO - Database connection closed.
+2025-12-03 10:19:15,548 - root - INFO - Preparing to send daily summary to admin...
+2025-12-03 10:19:18,128 - root - INFO - Email send to Admin email: kabirwale@yahoo.com
+2025-12-03 10:19:18,274 - root - INFO - Success: Email sent to kabirwale@yahoo.com
+2025-12-03 10:19:18,275 - root - INFO - Daily summary sent to admin kabirwale@yahoo.com
+2025-12-03 10:19:18,275 - root - INFO - Email delivery process completed. Check log for details.

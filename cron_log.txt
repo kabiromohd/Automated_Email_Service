@@ -1,0 +1,55 @@
+Traceback (most recent call last):
+  File "/home/kabiromohd/data_engineering_python_task/Task-1/task1-notebook.py", line 4, in <module>
+    import schedule
+ModuleNotFoundError: No module named 'schedule'
+Fetching quote from API...
+Quote fetched: “The purpose of life is the life of purpose.” — Robin Sharma
+Preparing to send emails to users...
+Connecting to the database...
+Traceback (most recent call last):
+  File "/home/kabiromohd/data_engineering_python_task/Task-1/task1-notebook.py", line 269, in <module>
+    main()
+  File "/home/kabiromohd/data_engineering_python_task/Task-1/task1-notebook.py", line 223, in main
+    USERS = get_active_users(frequency="daily")
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/kabiromohd/data_engineering_python_task/Task-1/task1-notebook.py", line 51, in get_active_users
+    user_ = conn.execute(query, [frequency]).fetchall()
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+_duckdb.CatalogException: Catalog Error: Table with name users does not exist!
+Did you mean "sqlite_master"?
+
+LINE 3:         FROM users
+                     ^
+Fetching quote from API...
+Quote fetched: “The purpose of life is the life of purpose.” — Robin Sharma
+Preparing to send emails to users...
+Connecting to the database...
+Connected to database....
+Traceback (most recent call last):
+  File "/home/kabiromohd/data_engineering_python_task/Task-1/task1-notebook.py", line 270, in <module>
+    main()
+  File "/home/kabiromohd/data_engineering_python_task/Task-1/task1-notebook.py", line 224, in main
+    USERS = get_active_users(frequency="daily")
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/kabiromohd/data_engineering_python_task/Task-1/task1-notebook.py", line 52, in get_active_users
+    users = conn.execute(query, [frequency]).fetchall()
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+_duckdb.CatalogException: Catalog Error: Table with name users does not exist!
+Did you mean "sqlite_master"?
+
+LINE 3:         FROM users
+                     ^
+Fetching quote from API...
+Quote fetched: “The purpose of life is the life of purpose.” — Robin Sharma
+Preparing to send emails to users...
+Connecting to the database...
+Connected to database....
+Fetched 4 active users with daily frequency
+Total active users to email: 4
+Successfully sent email to kabirolawlemohammed@yahoo.com
+Successfully sent email to skyfortglobalresourcesltd@yahoo.com
+Successfully sent email to solapeajiboye@gmail.com
+Successfully sent email to aladeyussuf.kofo@gmail.com
+Success: Email sent to kabirwale@yahoo.com
+Daily summary sent to admin kabirwale@yahoo.com
+Email delivery process completed. Check log for details.
