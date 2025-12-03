@@ -5,6 +5,8 @@
 ## Project Objective
 Task is to build an automated quote email delivery platform using ZenQuotes API. Get quotes from the API and automate daily sending to subscribers’ email.
 
+![pic](https://github.com/user-attachments/assets/f43e0031-ebd5-4eec-8f4f-f4fc22ac893d)
+
 ## Project Overview
 The project is for MindFuel Company, a mental wellness startup.
 They want to send motivational quotes to subscribed users every morning at 7 AM.
@@ -66,10 +68,10 @@ python database_setup.py
 
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/abb36f76-1fec-4823-8f1a-9d1a2bd6a286" />
 
-
 - The App can be manually run via this command:
   
 ```
 python main.py
+
 ```
 
