@@ -63,7 +63,7 @@ Run below command to setup a duckdb database:
 python database_setup.py
 ```
 
-### 7. Email service lunches via cron or manual
+### 7. Email service launches via cron or manual
 - setup a cron job as in below screenshot
 
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/abb36f76-1fec-4823-8f1a-9d1a2bd6a286" />
