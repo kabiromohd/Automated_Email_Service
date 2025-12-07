@@ -1,7 +1,7 @@
 import requests
 import os
 from dotenv import load_dotenv
-from logger import configure_logging
+from scripts.logger import configure_logging
 
 # Load environment variables from .env file
 load_dotenv()

@@ -2,8 +2,8 @@ import duckdb
 import os
 import pandas as pd
 from dotenv import load_dotenv
-from logger import configure_logging
-from connect_to_db import get_connection
+from scripts.logger import configure_logging
+from scripts.connect_to_db import get_connection
 
 logger = configure_logging()
 

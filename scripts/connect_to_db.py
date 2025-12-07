@@ -1,7 +1,7 @@
 import duckdb
 import os  
 from dotenv import load_dotenv
-from logger import configure_logging
+from scripts.logger import configure_logging
 
 load_dotenv()
 DB_PATH = os.getenv('DUCKDB_PATH')

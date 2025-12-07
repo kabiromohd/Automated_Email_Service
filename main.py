@@ -1,12 +1,12 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-from fetch_quote_from_api import fetch_quote
-from fetch_users import get_active_users
-from connect_to_db import get_connection
-from send_email import send_email
+from scripts.fetch_quote_from_api import fetch_quote
+from scripts.fetch_users import get_active_users
+from scripts.connect_to_db import get_connection
+from scripts.send_email import send_email
 from dotenv import load_dotenv
-from logger import configure_logging
+from scripts.logger import configure_logging
 from datetime import datetime
 import os
 import pandas as pd  
