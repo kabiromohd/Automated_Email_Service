@@ -93,7 +93,7 @@ def send_email(to_email, subject, body, attachments=None, last_emailed = None, e
             time.sleep(delay)
 
     logger.error(f"Failed to send email to {to_email} after {retries} retries.")
-    print(f"Failed to send email to {to_email} after {retries} retries.")
+    
     return False
 
 if __name__ == "__main__":
